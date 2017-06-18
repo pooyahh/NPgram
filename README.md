@@ -1,2 +1,2 @@
 # NPgram
-Simulating instagram on pc
+Simulating instagram on PC
